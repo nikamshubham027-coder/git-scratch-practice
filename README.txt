@@ -5,4 +5,3 @@ This change was made in master branch.
 
 This change is only for feature practice.
 
-This line is added to practice git revert.
